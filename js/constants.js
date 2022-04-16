@@ -1,0 +1,1 @@
+export const STEP_LINE_TANGAGE = 46;

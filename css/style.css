@@ -1,0 +1,43 @@
+#info {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    position: absolute;
+    top: 50px;
+    font-weight: 700;
+    line-height: 10px;
+}
+
+#txtPitch {
+    position: absolute;
+    top: 120px;
+}
+
+#inPitch {
+    position: absolute;
+    top: 150px;
+}
+
+#txtRoll {
+    position: absolute;
+    top: 180px;
+}
+
+#inRoll {
+    position: absolute;
+    top: 210px;
+}
+
+#txtCompas {
+    position: absolute;
+    top: 240px;
+}
+
+#inCompas {
+    position: absolute;
+    top: 270px;
+}
+
+#sendData {
+    position: absolute;
+    top: 300px;
+}
